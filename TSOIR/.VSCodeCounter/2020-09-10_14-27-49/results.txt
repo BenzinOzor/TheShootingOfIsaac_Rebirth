@@ -1,0 +1,85 @@
+Date : 2020-09-10 14:27:49
+Directory : e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources
+Total : 53 files,  4535 codes, 46 comments, 1453 blanks, all 6034 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         53 |      4,535 |         46 |      1,453 |      6,034 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                    | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                       |         53 |      4,535 |         46 |      1,453 |      6,034 |
+| Game                                                                                    |         25 |      2,243 |          8 |        733 |      2,984 |
+| Game\Enemies                                                                            |          6 |        227 |          1 |         89 |        317 |
+| Game\Enemies\Classic                                                                    |          2 |         73 |          0 |         28 |        101 |
+| Game\Projectiles                                                                        |          4 |        223 |          0 |         55 |        278 |
+| Game\Room                                                                               |         11 |      1,110 |          6 |        394 |      1,510 |
+| Game\States                                                                             |          2 |        102 |          0 |         34 |        136 |
+| Managers                                                                                |         14 |      1,435 |         29 |        463 |      1,927 |
+| Menus                                                                                   |         12 |        735 |          0 |        226 |        961 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Enemies\Classic\SoIRPooter.cpp   | C++      |         59 |          0 |         19 |         78 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Enemies\Classic\SoIRPooter.h     | C++      |         14 |          0 |          9 |         23 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Enemies\SoIREnemiesFunctions.cpp | C++      |         32 |          0 |         15 |         47 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Enemies\SoIREnemiesFunctions.h   | C++      |         18 |          1 |          9 |         28 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Enemies\SoIREnemy.cpp            | C++      |         75 |          0 |         23 |         98 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Enemies\SoIREnemy.h              | C++      |         29 |          0 |         14 |         43 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Projectiles\SoIRProjectile.cpp   | C++      |         37 |          0 |         11 |         48 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Projectiles\SoIRProjectile.h     | C++      |         33 |          0 |          8 |         41 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Projectiles\SoIRTear.cpp         | C++      |        137 |          0 |         28 |        165 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Projectiles\SoIRTear.h           | C++      |         16 |          0 |          8 |         24 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Room\SoIRDoor.cpp                | C++      |         71 |          0 |         22 |         93 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Room\SoIRDoor.h                  | C++      |         22 |          0 |         10 |         32 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Room\SoIRGround.cpp              | C++      |        198 |          2 |         73 |        273 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Room\SoIRGround.h                | C++      |         33 |          1 |         20 |         54 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Room\SoIRRoom.cpp                | C++      |        293 |          0 |         99 |        392 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Room\SoIRRoom.h                  | C++      |         41 |          1 |         14 |         56 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Room\SoIRScenery.h               | C++      |         22 |          0 |          8 |         30 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Room\SoIRShop.cpp                | C++      |         12 |          0 |          5 |         17 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Room\SoIRShop.h                  | C++      |         10 |          0 |          5 |         15 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Room\SoIRWall.cpp                | C++      |        360 |          1 |        116 |        477 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\Room\SoIRWall.h                  | C++      |         48 |          1 |         22 |         71 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\SoIRPlayer.cpp                   | C++      |        506 |          0 |        129 |        635 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\SoIRPlayer.h                     | C++      |         75 |          1 |         32 |        108 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\States\SoIRStateMachine.cpp      | C++      |         39 |          0 |         15 |         54 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Game\States\SoIRStateMachine.h        | C++      |         63 |          0 |         19 |         82 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Managers\SoIREntitiesManager.cpp      | C++      |        137 |         19 |         50 |        206 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Managers\SoIREntitiesManager.h        | C++      |         38 |          0 |         14 |         52 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Managers\SoIRFadeManager.cpp          | C++      |         68 |          0 |         20 |         88 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Managers\SoIRFadeManager.h            | C++      |         23 |          1 |         11 |         35 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Managers\SoIRGame.cpp                 | C++      |        206 |          1 |         65 |        272 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Managers\SoIRGame.h                   | C++      |         57 |          2 |         21 |         80 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Managers\SoIRLevelManager.cpp         | C++      |        312 |          1 |         98 |        411 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Managers\SoIRLevelManager.h           | C++      |         75 |          3 |         28 |        106 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Managers\SoIRMenuManager.cpp          | C++      |        180 |          0 |         52 |        232 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Managers\SoIRMenuManager.h            | C++      |         35 |          1 |         20 |         56 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Managers\SoIRProjectilesManager.cpp   | C++      |        109 |          0 |         23 |        132 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Managers\SoIRProjectilesManager.h     | C++      |         17 |          0 |          8 |         25 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Managers\SoIRSoundManager.cpp         | C++      |        153 |          0 |         40 |        193 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Managers\SoIRSoundManager.h           | C++      |         25 |          1 |         13 |         39 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Menus\SoIRBaseMenu.cpp                | C++      |         82 |          0 |         22 |        104 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Menus\SoIRBaseMenu.h                  | C++      |         29 |          0 |         13 |         42 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Menus\SoIRCharacterSelection.cpp      | C++      |        268 |          0 |         76 |        344 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Menus\SoIRCharacterSelection.h        | C++      |         61 |          0 |         19 |         80 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Menus\SoIRDeathScreen.cpp             | C++      |         49 |          0 |         20 |         69 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Menus\SoIRDeathScreen.h               | C++      |         15 |          0 |          7 |         22 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Menus\SoIRMainMenu.cpp                | C++      |         54 |          0 |         13 |         67 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Menus\SoIRMainMenu.h                  | C++      |         22 |          0 |          8 |         30 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Menus\SoIRPauseMenu.cpp               | C++      |         95 |          0 |         25 |        120 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Menus\SoIRPauseMenu.h                 | C++      |         25 |          0 |          9 |         34 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Menus\SoIRTitleMenu.cpp               | C++      |         25 |          0 |          9 |         34 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\Menus\SoIRTitleMenu.h                 | C++      |         10 |          0 |          5 |         15 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\SoIRDefines.h                         | C++      |        100 |          0 |         20 |        120 |
+| e:\Prog\SFML\FaZoN\Games\TSOIRebirth\Code\Sources\main.cpp                              | C++      |         22 |          9 |         11 |         42 |
+| Total                                                                                   |          |      4,535 |         46 |      1,453 |      6,034 |
++-----------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

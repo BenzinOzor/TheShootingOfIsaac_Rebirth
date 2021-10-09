@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TSOIR\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Managers\SoIRGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Managers\SoIRMenuManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Menus\SoIRBaseMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Menus\SoIRMainMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Menus\SoIRTitleMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Menus\SoIRCharacterSelection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Enemies\SoIREnemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\SoIRPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Managers\SoIRLevelManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Menus\SoIRPauseMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Managers\SoIRFadeManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Projectiles\SoIRProjectile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Projectiles\SoIRTear.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Managers\SoIRProjectilesManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Managers\SoIREntitiesManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Menus\SoIRDeathScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Room\SoIRGround.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Room\SoIRRoom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Room\SoIRShop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Room\SoIRWall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Room\SoIRDoor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Managers\SoIRSoundManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\States\SoIRStateMachine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Enemies\SoIREnemiesFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\SoIREntity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Managers\SoIRWavesManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Managers\SoIRItemsManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Items\SoIRItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\HUD\SoIRHUD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Enemies\SoIRBoss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Menus\SoIRLoadingScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Menus\SoIRDisclaimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Managers\SoIROptions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Menus\SoIROptionsMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Menus\SoIROptionsKeybinds.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Items\SoIRCollectible.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Managers\SoIRScoringManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Menus\SoIRSaveScoreMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Menus\SoIRHighScoresMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Projectiles\SoIRBrimstone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Projectiles\SoIRTechnology.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Projectiles\SoIRTechX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\HUD\SoIRSpiderMod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Room\SoIRTrapDoor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Menus\SoIRNightmare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Room\SoIRChest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Menus\SoIRCredits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Behaviors\SoIRDecorators.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Behaviors\SoIRTasks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Behaviors\SoIRBehaviors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Game\Enemies\Patterns\SoIRPattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Managers\SoIRPatternsManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\SoIRDefines.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TSOIR\Menus\SoIRControllerSelectionMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Data\XMLFiles\Resources.xml" />
+    <None Include="..\Data\Display\Fonts\Terminus_8.fnt" />
+    <None Include="..\Data\Display\Fonts\TeamMeat_12.fnt" />
+    <None Include="..\Data\Display\Fonts\Upheaval.fnt" />
+    <None Include="..\Data\Display\Fonts\TeamMeatBold_16.fnt" />
+    <None Include="..\Data\Display\Fonts\TeamMeat_16.fnt" />
+    <None Include="..\Data\Display\Fonts\LuaminiOutlined.fnt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TSOIR\Managers\SoIRGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Managers\SoIRMenuManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Menus\SoIRBaseMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Menus\SoIRMainMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\SoIRDefines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Menus\SoIRTitleMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Menus\SoIRCharacterSelection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Managers\SoIRLevelManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Enemies\SoIREnemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\SoIRPlayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Menus\SoIRPauseMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Managers\SoIRFadeManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Projectiles\SoIRProjectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Projectiles\SoIRTear.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Managers\SoIRProjectilesManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Managers\SoIREntitiesManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Menus\SoIRDeathScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Room\SoIRGround.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Room\SoIRWall.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Room\SoIRRoom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Room\SoIRShop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Room\SoIRDoor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Managers\SoIRSoundManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\States\SoIRStateMachine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Room\SoIRScenery.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Enemies\SoIREnemiesFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\SoIREntity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Managers\SoIRWavesManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Managers\SoIRItemsManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Items\SoIRItem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\HUD\SoIRHUD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Enemies\SoIRBoss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Menus\SoIRLoadingScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Menus\SoIRDisclaimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\SoIRDrawable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Managers\SoIROptions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Menus\SoIROptionsMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Menus\SoIROptionsKeybinds.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Items\SoIRCollectible.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Managers\SoIRScoringManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\SoIREvent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Menus\SoIRSaveScoreMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Menus\SoIRHighScoresMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Projectiles\SoIRBrimstone.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Projectiles\SoIRTechnology.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Projectiles\SoIRTechX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\HUD\SoIRSpiderMod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Room\SoIRTrapDoor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Menus\SoIRNightmare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Room\SoIRChest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Menus\SoIRCredits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Behaviors\SoIRDecorators.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Behaviors\SoIRTasks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Behaviors\SoIRBehaviors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Game\Enemies\Patterns\SoIRPattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Managers\SoIRPatternsManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSOIR\Menus\SoIRControllerSelectionMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="..\Data\XMLFiles\actionKeys.xml" />
+    <Xml Include="..\Data\XMLFiles\Characters.xml" />
+    <Xml Include="..\Data\XMLFiles\Sounds.xml" />
+    <Xml Include="..\Data\Display\Fonts\Tempesta.fnt" />
+    <Xml Include="..\Data\XMLFiles\Entities.xml" />
+    <Xml Include="..\Data\XMLFiles\Waves.xml" />
+    <Xml Include="..\Data\XMLFiles\Items.xml" />
+    <Xml Include="..\Data\XMLFiles\BitmapKBInputs.xml" />
+    <Xml Include="..\Data\XMLFiles\Patterns.xml" />
+    <Xml Include="..\Data\XMLFiles\Config.xml" />
+    <Xml Include="..\Data\XMLFiles\BitmapXinput.xml" />
+    <Xml Include="..\Data\XMLFiles\BitmapPS4Inputs.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="..\Data\res.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
