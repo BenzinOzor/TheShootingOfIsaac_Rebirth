@@ -1,6 +1,3 @@
-# TheShootingOfIsaac_Rebirth
-Personnal project. 2D shooter based on The Binding of Isaac (remake of my student project The Shooting of Isaac). SFML
-
 # The Shooting Of Isaac: Rebirth (EN)
 
 The Shooting of Isaac: Rebirth is a personnal project 2D vertical shooter inspired by [The Binding of Isaac: Rebirth](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/) I worked on since July 2020. I used C++ (a bit of C#) and [SFML](https://www.sfml-dev.org/) in Visual Studio 2017 and 2019.
